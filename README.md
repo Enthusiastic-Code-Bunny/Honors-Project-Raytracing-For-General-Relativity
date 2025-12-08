@@ -34,7 +34,7 @@ ________________________________________________________________
 
 Ensure that you have the following installed on your device:
 *  Python 3.10+
-*  CUDA Toolkit 12.8+
+*  CUDA Toolkit 12.8
 *  Numba, Numpy, matplotlib, Pillow
 *  An NVIDIA driver that is CUDA-enabled
 
